@@ -20,9 +20,9 @@ Data Set Characteristics:  **Multivariate**
 
 Number of Instances: **569**
 
-Area:** Life**
+Area: **Life**
 
-Attribute Characteristics: **Real**
+Attribute Characteristics:  **Real**
 
 Number of Attributes: **32**
 
@@ -34,7 +34,8 @@ Missing Values? : **No**
 
 ## Workflow 
 workflow used in a developing model are followings:
-- ** Import required libraries**
+
+-  **Import required libraries**
 - Step 1 - Dataset Selection
 - Step 2 - Data Normlization 
 - Step 3 - Train and Test Split
